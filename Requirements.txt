@@ -1,0 +1,3 @@
+# pip install -r Requirements.txt
+Django~=5.0.4
+pillow
